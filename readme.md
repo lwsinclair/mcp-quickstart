@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/dexaai-mcp-quickstart-badge.png)](https://mseep.ai/app/dexaai-mcp-quickstart)
+
 # MCP Server Quickstart
 
 Setup a [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) server in 60 seconds.
